@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="item_list">
+        <item>Furniture</item>
+        <item>Sofa</item>
+        <item>Table</item>
+    </array>
+</resources>

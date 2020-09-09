@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Furniture</string>
+
+    <string name="getOtp">Get OTP</string>
+
+    <string name="signIn">Sign in</string>
+
+    <string name="allOffer">All offer</string>
+
+    <string name="newOffer">New offer</string>
+
+    <string name="mobileNumber">Mobile No</string>
+
+    <string name="verifedOtp">Verified OTP</string>
+
+    <string name="enterOTP">Enter OTP</string>
+
+
+    <string name="productName"> Product Name</string>
+
+    <string name="price"> Price</string>
+
+    <string name="discountPrice">Discount Price</string>
+
+    <string name="back">Back</string>
+
+
+    <string name="save">Save</string>
+
+    <string name="sello">Sell</string>
+
+
+
+</resources>
